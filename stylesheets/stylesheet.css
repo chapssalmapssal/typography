@@ -26,7 +26,6 @@ body {
 #intro {
   margin-left: 50px;
   margin-right: 50px;
-    font-size: 18px;
 }
 h1 {
   margin: 0 0 60px;
@@ -37,15 +36,20 @@ h1 {
         font-weight: normal;
         text-transform: none;
         color: #f3f3f3;
+          text-shadow: 2px 2px 2px #2f869c;
 }
 
 h2 {
         margin: 48px 0 24px;
+          margin-left: 250px;
+
   font-family: 'pirata one', serif;
   font-size: 48px;
   line-height: 54px;
         font-weight: normal;
         color: #fff;
+                  text-shadow: 2px 2px 2px #2f869c;
+
 }
 
 
